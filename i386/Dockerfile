@@ -1,4 +1,4 @@
-FROM daald/ubuntu32:trusty
+FROM m0elnx/ubuntu-32bit
 MAINTAINER Jonne Haß <me@jhass.eu>
 
 RUN apt-get update && \
